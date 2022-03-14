@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<meta property="og:title" content="Rxx4u | Official Website" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://rxx4u.biolink.repl.co" />
+<meta property="og:image" content="https://rxx4u.biolink.repl.co/pic.png" />
+<meta property="og:description" content="i am so cool" />
+<meta name="theme-color" content="#8278B7">
+  <head>
+<link rel="icon" type="image/x-icon" href="https://rxx4u.ml/icon.png">
+<title>About Me</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="background-color:#8278B7;">
+<center><img src="pic.png" alt="Banner"></center>
+  <center>
+  <h1 class = "f1">--About Me--</h1>
+<center><h2>________________________</h2></center>
+  </center>
+<center>
+  <h2 class = "f1">Hey my name is Ronak, and I am an Upcoming Music Producer. I've started my music journey on the 11th of October by downloading Fl Studio 20 and watching a couple of tutorials on how to produce music and in the en of the day I came up with this, my first track: (its bad)</h2></center>
+<center>
+  <audio controls>
+  <source src="Retro Bass.mp3" 
+    </audio>
+</center>
+<center>
+  <h2 class = "f1">So, After awhile here we are, have good numbers on Spotify and YouTube, anyways thats it for now. I will update this page along the way of my music journey :)</h2>
+<center><h2>________________________</h2></center>
+</center>
+</head>
+</html>

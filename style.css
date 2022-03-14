@@ -1,0 +1,18 @@
+  a:link, a:visited {
+  background-color: #A020F0;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: #301934;
+}
+.round {border-radius: 12px;}
+.f1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.f2 {
+  font-family: "Helvetica", sans-serif;
+}

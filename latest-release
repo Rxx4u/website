@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<meta property="og:title" content="Stream RHythm" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://rxx4u.biolink.repl.co" />
+<meta property="og:image" content="https://rxx4u.biolink.repl.co/pic.png" />
+<meta property="og:description" content="i'm so cool" />
+<meta name="theme-color" content="#8278B7">
+  <link rel="icon" type="image/x-icon" href="icon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
+<title>Stream Rhythm</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="background-color:#8278B7;">
+<center><img src="https://rxx4u.ml/pic.png" alt="Banner"></center>
+
+  
+  
+ <center><h2>________________________</h2></center>
+  <center>
+  <h1 class = "f1">
+  Stream Rhythm
+  </center>
+<center>
+  
+  <img src="https://rxx4u.ml/rhythm.png" alt="Rhythm cover" width = "200" height = "200">
+   </center>
+<center>
+  <a class = "f1 , round" href= "https://open.spotify.com/album/6VaEgZsP4uN91YmczESAm6" target="_blank" >Spotify</a>
+   <a class = "f1 , round" href= "https://music.amazon.in/albums/B09T98JV9J" target="_blank" >Amazon Music</a>
+   <a class = "f1 , round" href= "https://soundcloud.com/rxx4u/sets/rhythm-21836346" target="_blank" >SoundCloud</a>
+   <a class = "f1 , round" href= "https://music.apple.com/us/album/rhythm-ep/1611451846" target="_blank" >Apple Music</a>
+ 
+</center>
+  <center><h2>________________________</h2></center>
+
+</body>
+</html>

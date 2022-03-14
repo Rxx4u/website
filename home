@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<meta property="og:title" content="Rxx4u | Official Website" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://rxx4u.biolink.repl.co" />
+<meta property="og:image" content="https://rxx4u.biolink.repl.co/pic.png" />
+<meta property="og:description" content="i'm so cool"
+/>
+<meta name="theme-color" content="#8278B7">
+<head>
+<link rel="icon" type="image/x-icon" href="https://rxx4u.ml/icon.png">
+<title>Rxx4u</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body style="background-color:#8278B7;">
+<center><img src="pic.png" alt="Banner"></center>
+<center>
+  <center><h2 class = "f2">Hey! My name is Ronak, and I am an Upcoming Music Producer. Check out my socials below :)</h2></center>
+
+  
+
+<a href="https://open.spotify.com/artist/7BpBt2eMrSVdZzsG1nmY4e?autoplay=true" target="_blank" class = "f1 , round" >Spotify</a>
+
+<a href="https://www.youtube.com/c/Rxx4u" target="_blank" class = "f1 , round">Youtube</a>
+
+<a href="https://music.amazon.in/artists/B09MZK7CJ8/rxx4u" target="_blank" class = "f1 , round">Prime Music
+ </a>
+
+<a href="https://music.apple.com/in/artist/rxx4u/1599454750" target="_blank" class = "f1 , round">Apple Music</a>
+
+<a href="https://instagram.com/rxx4u" target="_blank" class = "f1 , round">Instagram</a>
+<a href="https://twitter.com/rxx4u_" target="_blank" class = "f1 , round">Twitter</a>
+  <a href="https://discord.gg/PdEQ4QeEg3" target="_blank" class = "f1 , round">Discord Server</a>
+ <center><h2>________________________</h2></center>
+  <h2 class = "f1 , round">Stream Rhythm</h2>
+ <center>
+  
+  <img src="https://rxx4u.biolink.repl.co/rhythm.png" alt="cover" width = "200" height = "200" class = "round">
+   </center> 
+  <a class = "f1" href= "https://rxx4u.biolink.repl.co/latest-release.html" target="_blank" >Stream Here</a>
+   <center><h2>________________________</h2></center>
+<h2 class = "f1">latest Youtube Video</h2>
+
+<iframe width="814" height="458" src="https://www.youtube.com/embed/j5LcsxRtI7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+  <center><h2>________________________</h2></center>
+    <h1 class = "f1">Check Out the Shimazu CLan</h1>
+  <center><img src="https://shimazu.ml/servericon.webp" width = 
+200 height = 200 alt="servericon" class = "round"></center>
+    
+  <a href="https://shimazu.ml/" target="_blank" class = "f1 , round">Check It Out!</a>
+  <center><h2>________________________</h2></center>
+  <center>
+    <iframe src="https://discord.com/widget?id=931434772155207680&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  </center>
+</center>
+  <center><h2>________________________</h2></center>
+  <h1 class = "f1">Anyways Here's an Indroduction Of Myself</h1>
+</center>
+
+  <center>
+
+  <a href="https://rxx4u.biolink.repl.co/aboutme.html" target="_blank" class = "f1 , round">About Me</a>
+</center>
+
+<center><h2>________________________</h2></center>
+
+<center><h2 class = "f1">For Any Buisness Inquiry, Here's My Email: ronakpal4music@gmail.com</h2></center>
+</body>
+</html>
